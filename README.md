@@ -1,1 +1,4 @@
 # project-server
+The goal of this project is to learn ubuntu, linux commands, Web, full-stack development, programming, scripting, hosting and managing of a website.
+Configuration of server, managing it's integrity, Securing it, learning about monitoring the network and traffic. 
+
